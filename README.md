@@ -9,7 +9,7 @@ In this course I am going to teach you the basics of the Go programming language
 
 ## Source Files Description
 
-This repository contains the sample web servers that are built in chapter 3 of the course. There is one subfolder for each site, cooresponding to the site and server built in each lesson of chapter 3.
+This repository contains the sample programs from each lesson of the course, including the web servers built in chapter 3. There is one subfolder for each server, cooresponding to the site and server built in each lesson of chapter 3.
 
 ------
 
